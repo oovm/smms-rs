@@ -1,0 +1,10 @@
+[package]
+name = "smms"
+version = "0.1.0"
+authors = ["Aster <galaster@foxmail.com>"]
+edition = "2018"
+
+# See more keys AND their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+futures = "0.3"
